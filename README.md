@@ -9,7 +9,7 @@
  
 <a href="https://github.com/UjwalKandi"><img align='right' src='https://github.com/UjwalKandi/UjwalKandi/blob/changes-to-readme/svg/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='150"'></a></h2>
 
-- 🎓 Soy estudiante del CCCSP 
+- 🎓 Soy estudiante del CCCSP ![Descripción del GIF](ruta/o/enlace/del/gif.gif) 
 - 💻 Me gusta la biologia 
 - ⭐ Veo la NBA ![Lebroooon](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzR3MXdoZHlrcnloNHdjbzNta2h6d2l1b3Z4aThqeGg0eTdnYzlidyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IglQkzvuewsoD6E1Pj/giphy.gif)
 - ⚡ Paso mi tiempo con videojuegos o leyendo 
