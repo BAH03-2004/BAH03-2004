@@ -11,7 +11,7 @@
 
 - 🎓 Soy estudiante del CCCSP 
 - 💻 Me gusta la biologia 
-- ⭐ Veo la NBA ![Descripción del GIF](https://giphy.com/gifs/nba-funny-lebron-lebronjames-IglQkzvuewsoD6E1Pj)
+- ⭐ Veo la NBA ![Lebroooon](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzR3MXdoZHlrcnloNHdjbzNta2h6d2l1b3Z4aThqeGg0eTdnYzlidyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IglQkzvuewsoD6E1Pj/giphy.gif)
 - ⚡ Paso mi tiempo con videojuegos o leyendo 
 
 
